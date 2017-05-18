@@ -9,6 +9,6 @@ print(pairs.get("orange"))
 print(pairs.get(7))
 print(pairs.get(12345, "not in dictionary"))
 
-tup = (1, 2, 3)
-print(tup[0:2])
+TUPPLE = (1, 2, 3)
+print(TUPPLE[0:2])
 

@@ -1,4 +1,4 @@
-ratesDict = {"BGN": 1, "USD": 1.79549, "EUR": 1.95583, "GBP": 2.53405 }
+ratesDict = {"BGN": 1, "USD": 1.79549, "EUR": 1.95583, "GBP": 2.53405}
 
 amountInput = input("Enter amount to convert: ")
 currFromInput = input("From currency code: ")
